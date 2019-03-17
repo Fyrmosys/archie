@@ -52,7 +52,7 @@ _Wrapper for the `pacman` package manager_
 
 ## Alias and Function files
 
-add `source ~/git/dots/jenniferannegarner.sh` to either `~/.bash_profile` or `~/.bashrc`
+add `source ~/git/dots/alias/jenniferannegarner.sh` to either `~/.bash_profile` or `~/.bashrc`
 
 ## Python
 
